@@ -71,9 +71,4 @@ To simulate a session end:
 
 ---
 
-lib/
-├── cubits/
-│   └── sse_cubit.dart      # Manages SSE connection and state
-├── screens/
-│   ├── login_screen.dart   # User inputs ID and connects
-│   └── sse_screen.dart     # Displays live connection/messages
+📱 **Backend node js **: [SSE NodeJs](https://github.com/marwanhamdy1/node-sse-logout)  
